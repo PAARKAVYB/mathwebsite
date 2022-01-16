@@ -35,24 +35,22 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <title>Math Website</title>
+    <title>Volume</title>
     <style>
         * {
   box-sizing: border-box;
   font-family: Arial, Helvetica, sans-serif;
 }
 body {
-  background-color:rgb(168, 203, 226);
+  background-color:rgb(133, 125, 245);
 }
 .container {
   width: 1080px;
@@ -62,9 +60,9 @@ body {
 .content {
   display: block;
   width: 100%;
-  background-color: #db94d5;
+  background-color: #E6E6FA;
   min-height: 500px;
-  margin-top: 50px;
+  margin-top: 150px;
 }
 
 h1{
@@ -77,12 +75,13 @@ h1{
     font-size:xx-large;
     margin-top: 5px;
     margin-bottom: 5px;
+
 }
 .footer{
-    didplay:inline-block;
+    display: inline-block;
     width: 100%;
-    height :35px;
-    background-color: rgb(118, 145, 204);
+    height: 35px;
+    background-color: 45A0E6;
     color: black;
     text-align: center;
     padding-top: 10px;
@@ -113,8 +112,6 @@ h1{
                
             </form>
         </div>
-         <div class="footer">Developed by Paarkavy B</div>
-         </div>
         <script type="text/javascript">
             var button;
             button=document.querySelector("#calbutton1");
@@ -137,18 +134,18 @@ h1{
             <h1>AREA OF A RECTANGLE</h1>
             <form>
                 <div class="formelement">
-                  <lable for="lengthedit">Length:</lable>
+                  <lable for="lengthedit">LENGTH:</lable>
                   <input type="text" id="lengthedit" value=" "/>Meters
                 </div><br>
                 <div class="formelement">
-                  <lable for="breadthedit">Breadth:</lable>
+                  <lable for="breadthedit">BREADTH:</lable>
                   <input type="text" id="breadthedit" value=" "/>Meters
                 </div><br>
                 <div class="formelement">
                   <input type="button" value="CALCULATE AREA" id="calbutton2"/>
                 </div><br>
                 <div class="formelement">
-                  <lable for="areaedit">Area:</lable>
+                  <lable for="areaedit">AREA:</lable>
                   <input type="text" id="areaedit" readonly="0"/>Square Meters
                 </div><br>
                 <div class="formelement">
@@ -156,8 +153,8 @@ h1{
                 </div><br>
                 
             </form>
-          </div>
-          <div class="footer">Developed by Paarkavy B</div>
+    
+            </div>
         </div>
         <script type="text/javascript">
           var button;
@@ -183,10 +180,7 @@ h1{
   
 </body>
 </html>
-
-
-
-
+```
 
 
 ## OUTPUT:

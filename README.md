@@ -36,10 +36,6 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 
-<<<<<<< HEAD
-
-=======
->>>>>>> efc60518ce1c75e625061b6f9ae063364ff6b17f
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -186,18 +182,14 @@ h1{
 </html>
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> efc60518ce1c75e625061b6f9ae063364ff6b17f
+
+
 
 ## OUTPUT:
 
 ![output](mathwebsite.png)
-<<<<<<< HEAD
 
-=======
->>>>>>> efc60518ce1c75e625061b6f9ae063364ff6b17f
 ## Result:
 
 Thus a website is designed to perform mathematical calculations in the client side.

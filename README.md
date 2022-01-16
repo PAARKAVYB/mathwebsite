@@ -36,12 +36,11 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 
---include your code--
+
 
 ## OUTPUT:
 
--- include your output screenshots ---
-
+![output](mathwebsite.png)
 ## Result:
 
 Thus a website is designed to perform mathematical calculations in the client side.
